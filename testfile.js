@@ -1,5 +1,5 @@
-const multiply = (a, b ) =>{
-    return a * b 
+const add = (a) =>{
+    return a + 10
 }
 
-console.log(multiply(10,10))
+console.log(add(1))
